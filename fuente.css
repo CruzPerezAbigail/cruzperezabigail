@@ -4,6 +4,9 @@
          
          
 }
+body{
+         background-color:cadetblue;
+}
 h1{
          font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
          font-size: 50px;
@@ -13,17 +16,26 @@ h1{
          text-align: center;
 }
 
+
 img{
-         animation-duration: 20s;
+         display: block;
          margin-left: auto;
-         margin-top: auto;
          margin-right: auto;
-         width: 25%;
-         display: initial;
+         width: 35%;   
+}
+.texto{
+
 }
 p{
+        
+         background-color: darkkhaki;
          font-size: 20px;
          font-family: Verdana, Geneva, Tahoma, sans-serif;
-         padding: 10px;
-         text-justify: auto;
-}eon
+         border: 500px;
+         box-sizing: border-box;
+         width: 700px;
+         text-align: justify;
+}
+div{
+         display: block;
+}
