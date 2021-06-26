@@ -8,10 +8,9 @@ body{
          background-color:cadetblue;
 }
 h1{
-         font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+         font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif,cursive;
          font-size: 50px;
-         background-color: cornflowerblue;
-         border: cyan 2px solid;
+         
          padding: 20px;
          text-align: center;
 }
@@ -23,15 +22,13 @@ img{
          margin-right: auto;
          width: 35%;   
 }
-.texto{
 
-}
 p{
         
          background-color: darkkhaki;
          font-size: 20px;
          font-family: Verdana, Geneva, Tahoma, sans-serif;
-         border: 500px;
+         background-position-x: center;
          box-sizing: border-box;
          width: 700px;
          text-align: justify;
@@ -39,3 +36,22 @@ p{
 div{
          display: block;
 }
+h2{
+         font-family: Georgia, 'Times New Roman', Times, serif;
+         font-style: italic;
+         font-size: 45px;
+         text-align: center;
+         
+
+         }
+.textonahualt{
+         font-style: italic;
+         font-size: 20px;
+         font-family: Verdana, Geneva, Tahoma, sans-serif;
+         background-position-x: center;
+         box-sizing: border-box;
+         width: 700px;
+         text-align: justify;
+
+}
+
