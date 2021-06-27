@@ -30,7 +30,7 @@ p{
          font-family: Verdana, Geneva, Tahoma, sans-serif;
          background-position-x: center;
          box-sizing: border-box;
-         width: 700px;
+         padding: 80px;
          text-align: justify;
 }
 div{
@@ -54,4 +54,19 @@ h2{
          text-align: justify;
 
 }
+.autor {
+         font-weight:bold; 
+         color:black;
+         font-size: 20pt;
+         text-align: center;
+     }
+h3{
+         font-family: Verdana, Geneva, Tahoma, sans-serif;
+         font-size: 20px;
+         text-align: center;
+         background-color: burlywood;
+         color: cadetblue;
+}
+
+
 
