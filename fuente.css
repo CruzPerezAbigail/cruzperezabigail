@@ -80,6 +80,12 @@ dd{
          color: black;
         margin-bottom: 3em;
 }
+a{
+         color:black;
+         font-family: Verdana, Geneva, Tahoma, sans-serif;
+         font-size: 20px;
+         text-align: center;
+ }
 
 
 
