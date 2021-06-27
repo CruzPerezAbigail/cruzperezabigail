@@ -69,14 +69,13 @@ h3{
 .glosario{
          
          font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-         font-size: 18px;
+         font-size: 20px;
          padding: 20px;
 }
 dt{
-         color:darkcyan;
+         color:cornsilk;
          font-weight: bold;
          font-size: 20px;
-}
 dd{
          color: black;
         margin-bottom: 3em;
